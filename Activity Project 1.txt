@@ -4,7 +4,7 @@
 1)To find the total number of employees in a company:
 
 
-SELECT *(EmployeeNumber)
+SELECT EmployeeNumber
 From employee;
 
 
